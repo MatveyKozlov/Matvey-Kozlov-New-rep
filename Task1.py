@@ -7,10 +7,11 @@ Season = ["Winter","Spring","Summer","Autumn"]
 
 from collections import deque
 d = deque() 
-d.append(a)
-d.append(b)
-d.append(c)
+d.append('1')
+d.append('2')
+d.append('3')
 print(d)
+
 
 
 
